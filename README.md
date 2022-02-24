@@ -2,12 +2,16 @@
 0) Abrir Visual Studio Code desde la terminal
     code .
 
+odejsfirebase-f7010-firebase-adminsdk-ymir0-4818666261.json"
+
 # instalar
 0) npm init -y
 1) npm i express express-handlebars morgan firebase-admin
 2) npm i nodemon -D
 
-
+# iniciar en el consola el sig comando
+   - export GOOGLE_APPLICATION_CREDENTIALS="/home/haguilerts/Documentos/nodejs_curso_0/node-firebase/n
+   - npm run dev
 
 # intruciondes
 - nodemos: permitir que todos los cambios que realicemos en nuestro proyecto se implementen a tiempo real 
@@ -34,4 +38,5 @@ https://www.bootstrapcdn.com/bootswatch/
 # varible linux
 export GOOGLE_APPLICATION_CREDENTIALS="/home/haguilerts/Documentos/nodejs_curso_0/node-firebase/nodejsfirebase-f7010-firebase-adminsdk-ymir0-4818666261.json"
 
+# ejemplo tomado
 https://github.com/FaztWeb/nodejs-firebase-example/blob/master/src/routes/index.js
